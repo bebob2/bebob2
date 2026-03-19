@@ -1,4 +1,4 @@
-## Hi there 👋
+## HELLO WORLD this is Benjamin Bobkin
 
 <!--
 **bebob2/bebob2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am currently studying Computer Science at TU Berlin (Technische Universität Berlin, Germany)
+- Programminglanguages: C, Python, SQL, ...
+- Other Computer Langauges: HTML, CSS
