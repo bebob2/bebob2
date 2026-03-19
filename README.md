@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - I am currently studying Computer Science at TU Berlin (Technische Universität Berlin, Germany) 🏫
 - Programminglanguages: C, Python, SQL, ... 💻
 - Other Computer Langauges: HTML, CSS 💻
+
+Check out my Homepage: https://bebob2.github.io/homepage
