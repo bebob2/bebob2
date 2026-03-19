@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Programminglanguages: C, Python, SQL, ... 💻
 - Other Computer Langauges: HTML, CSS 💻
 
-Check out my Homepage: https://bebob2.github.io/homepage
+Check out my [Homepage](https://bebob2.github.io/homepage) and my [Linkedin](https://www.linkedin.com/in/benjamin-bobkin-6a29633ab/).
