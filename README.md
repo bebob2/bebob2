@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I am currently studying Computer Science at TU Berlin (Technische Universität Berlin, Germany) 🏫
-- Programminglanguages: C, Python, Java, SQL, ... 💻
-- Other Computer Langauges: HTML, CSS 💻
+- Programming languages: C, Python, Java, SQL, ... 💻
+- Other Computer Languages: HTML, CSS 💻
 
-Check out my [Homepage](https://bebob2.github.io/homepage) and my [Linkedin](https://www.linkedin.com/in/benjamin-bobkin-6a29633ab/).
+Check out my [Homepage](https://bebob2.github.io/homepage) and my [LinkedIn](https://www.linkedin.com/in/benjamin-bobkin/).
